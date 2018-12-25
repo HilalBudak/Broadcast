@@ -8,6 +8,7 @@ Kodları çalıştırmak için;
 
 	python2.7 goruntu_server.py HOST PORT
 	python2.7 goruntu_server.py HOST PORT
-	Yayını yapan server olduğu için önce server kodunu çalıştırmanız gerekmekte.
+
+Yayını yapan server olduğu için önce server kodunu çalıştırmanız gerekmekte.
 
 
