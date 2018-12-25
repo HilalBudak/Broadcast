@@ -5,7 +5,7 @@ Client-server mimarisi kullanıldı.
 
 
 
-Kodları çalıştırmak için;
-python2.7 goruntu_server.py HOST PORT
-python2.7 goruntu_client.py HOST PORT
+-Kodları çalıştırmak için;
+-python2.7 goruntu_server.py HOST PORT
+-python2.7 goruntu_client.py HOST PORT
 *yayını yapan taraf server olduğu için önce onu çalıştırmanız gerekmekte.
