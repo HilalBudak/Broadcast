@@ -1,6 +1,6 @@
 Broadcast with Python
 
-Python pyaudio ve opencv kütüphaneleri kullanılarak görüntü ve ses yayını yapıldı.
+Python pyaudio ve cv2 kütüphaneleri kullanılarak görüntü ve ses yayını yapıldı.
 Client-server mimarisi kullanıldı.
 TCP protokolü kullanıldığı için görüntü iletiminde hafif duraksamalar yaşanmakta.
 
